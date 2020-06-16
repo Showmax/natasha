@@ -1,0 +1,13 @@
+color:
+  primary: FF00FF
+font:
+  donut:
+    ios: 27
+    android: 28
+    web: 30
+    tv: 40
+  donut2:
+    ios: 27
+    android: 28
+    web: 30
+    tv: 40
