@@ -1,2 +1,2 @@
 # natasha
-Holder for runtime design system changes
+Temporal place for spec file that used internaly in design system group.
