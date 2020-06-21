@@ -6,8 +6,25 @@ font:
     android: 28
     web: 30
     tv: 40
+  shmLargeTitle:
+    ios: 34
   shmTitle1:
-    ios: 48
-    android: 28
-    web: 30
-    tv: 40
+    ios: 28
+  shmTitle2:
+    ios: 22
+  shmTitle3:
+    ios: 20
+  shmHeadline:
+    ios: 17
+  shmSubheadline:
+    ios: 15
+  shmBody:
+    ios: 17
+  shmCallout:
+    ios: 16
+  shmFootnote:
+    ios: 13
+  shmCaption1:
+    ios: 12
+  shmCaption2:
+    ios: 11
