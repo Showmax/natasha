@@ -7,24 +7,24 @@ font:
     web: 30
     tv: 40
   shmLargeTitle:
-    ios: 340
+    ios: 34
   shmTitle1:
-    ios: 280
+    ios: 28
   shmTitle2:
-    ios: 220
+    ios: 22
   shmTitle3:
-    ios: 200
+    ios: 20
   shmHeadline:
-    ios: 170
+    ios: 17
   shmSubheadline:
-    ios: 150
+    ios: 15
   shmBody:
-    ios: 170
+    ios: 17
   shmCallout:
-    ios: 160
+    ios: 16
   shmFootnote:
-    ios: 130
+    ios: 13
   shmCaption1:
-    ios: 120
+    ios: 12
   shmCaption2:
-    ios: 110
+    ios: 11
